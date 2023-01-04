@@ -1,0 +1,82 @@
+---
+Developer Productivity & Tools:
+  - hoppscotch/hoppscotch
+  - hasura/graphql-engine
+  - openebs/openebs
+  - gluster/glusterfs
+  - spacecloud-io/space-cloud
+  - kadalu/kadalu
+  - devtron-labs/devtron
+  - skytable/skytable
+  - ajeetdsouza/zoxide
+  - parseablehq/parseable
+  - litmuschaos/litmus
+  - mr-karan/doggo
+  - bytebeamio/rumqtt
+  - Delta456/box-cli-maker
+  - meshery/meshery
+  - nikochiko/autosaved
+  - Samyak2/toipe
+  - mohsinulhaq/react-popper-tooltip
+
+Observability:
+  - signoz/signoz
+
+Low-code Tools:
+  - appsmithorg/appsmith
+  - tooljet/tooljet
+  - frappe/frappe
+
+Learning & Education:
+  - pupilfirst/pupilfirst
+  - TheAlgorithms/Python
+  - firstcontributions/first-contributions
+  - CircuitVerse/CircuitVerse
+  - rohitg00/DevOpsCommunity
+  - reactplay/react-play
+  - saiyam1814/DevOpsRoadmap2022
+
+UI/UX:
+  - GeekyAnts/NativeBase
+  - CRED-CLUB/synth-android
+  - ParthJadhav/Tkinter-Designer
+  - resuminator/resuminator
+  - hc-oss/react-multi-select-component
+
+Data Science & Engineering:
+  - activeloopai/Hub
+  - dr5hn/countries-states-cities-database
+  - winkjs/wink-nlp 
+  - akshitagupta15june/Face-X
+
+Security & Privacy:
+  - build-trust/ockam
+  - SecurityFTW/cs-suite
+  - Privado-Inc/privado
+  - boxyhq/jackson
+
+Health:
+  - covid19india/covid19india-react
+
+GitHub Power-Ups:
+  - anuraghazra/github-readme-stats
+  - shivammathur/setup-php
+  - gautamkrishnar/blog-post-workflow
+  - abhisheknaiidu/awesome-github-profile-readme
+
+Business Software:
+  - frappe/erpnext
+  - chatwoot/chatwoot
+  - bagisto/bagisto
+  - knadh/listmonk
+  - chaos-genius/chaos_genius
+
+Consumer Software:
+  - kovidgoyal/calibre
+  - TeamAmaze/AmazeFileManager
+
+Software Testing:
+  - LambdaTest/test-at-scale
+  - karatelabs/karate
+  - keploy/keploy
+  
